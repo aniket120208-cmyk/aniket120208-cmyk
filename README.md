@@ -15,3 +15,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket120208-cmyk&show_icons=true&locale=en&layout=compact" alt="aniket120208-cmyk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket120208-cmyk&show_icons=true&locale=en" alt="aniket120208-cmyk" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniket120208-cmyk/aniket120208-cmyk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniket120208-cmyk/aniket120208-cmyk/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/aniket120208-cmyk/aniket120208-cmyk/output/github-snake.svg" />
+</picture>
