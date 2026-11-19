@@ -6,12 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=aniket120208-cmyk&label=Profile%20views&color=0e75b6&style=flat" alt="aniket120208-cmyk" />
 </p>
 
-- 📫 How to reach me: **aniket120208@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:aniket120208@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/aniket-tiwari-6b5277380/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
